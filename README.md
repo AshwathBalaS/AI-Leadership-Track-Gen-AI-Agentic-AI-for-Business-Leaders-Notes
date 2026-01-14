@@ -5,6 +5,8 @@ This Repository contains my "AI Leadership Track: Gen AI, Agentic AI for Busines
 
 **A) Your Path from AI Strategist to AI Leader**
 
+**B) Core AI Terms Explained: LLMs, Transformers, Gen AI**
+
 
 
 # **I) Become an AI Strategist**
@@ -42,4 +44,32 @@ What we won’t do is dive into deep technical implementations. We’ll discuss 
 One final thing: you get me with the deal. I love answering questions, and I genuinely want you to ask them. You can connect with me on LinkedIn, email me, or reach out on X or YouTube, where I share AI insights for business audiences. I’m highly engaged, and if you contact me, I will respond as soon as I can. I also love building community—connecting business leaders and technologists working in this space—so please take me up on that.
 
 And that concludes the first lecture of the first module. This session was about setting the stage, but we also gained an early, tangible insight into AI agents. I hope you now better understand what they are and why Sam Altman believes this is the year they enter the workforce. In our next session, we’ll begin with definitions and explore the AI landscape and technologies. Some of this may be familiar, and I’ll move quickly, but it’s essential groundwork for making sound business strategy decisions. I’ll see you then.
+
+# **B) Core AI Terms Explained: LLMs, Transformers, Gen AI**
+
+Welcome to lecture two. In this session, we begin talking about AI terms and the broader AI landscape. Some of this material may already be familiar, but the goal is to quickly cover the basic definitions while also explaining them in a way that adds something new for everyone. The content is designed for a wide audience, and if any parts feel too technical, there is no need to worry—we will move into a business-focused perspective very soon.
+
+To start, a few key concepts are defined: artificial intelligence, machine learning, deep learning, generative AI, large language models, transformers, and agents. These definitions are presented not just in textbook terms, but also with real-world, practical interpretations of how these ideas are actually used in everyday business and technology conversations. The objective is to provide a solid foundation that will be useful later when we discuss strategy and commercial applications.
+
+Artificial intelligence, in its textbook sense, refers to machines that exhibit intelligent behavior. The idea of machines being able to “think” was first formalized by Alan Turing in 1950 with the proposal of the Turing Test. Today, AI is used as an umbrella term covering traditional machine learning, deep learning, generative AI systems like ChatGPT, and even robotics. Interestingly, the term “AI” became heavily overused about a decade ago, appearing on every investor deck and website, which led to a kind of fatigue. Many organizations shifted toward talking about “automation” instead. However, the success of tools like ChatGPT has brought AI back into focus, and it is once again central to business and technology discussions.
+
+Machine learning is a subset of AI that allows systems to learn from data without being explicitly programmed. While this definition can technically include generative AI, in everyday practice the term “machine learning” usually refers to traditional models used before the recent generative AI boom. These models rely on weighted combinations of features learned from data and are commonly used for tasks such as predicting credit risk, loan approvals, or house prices. This is typically what people mean when they talk about ML in business contexts.
+
+Deep learning represents the modern AI approach and is based on neural networks with many layers—hence the term “deep.” Although neural networks date back to the 1950s, they experienced periods of limited success before reemerging strongly around 2010. Their resurgence was driven by increased computing power, vast amounts of data, and new techniques for organizing neural networks. One of the most important of these techniques is the transformer architecture, which made it possible to train extremely large and capable models.
+
+Generative AI is the form of AI most associated with systems like ChatGPT. These models use deep neural networks to generate new content—text, images, audio, or video—based on an input known as a prompt. The model is trained to predict what is most likely to come next after a given input. For example, if the prompt asks for the capital of France, the model generates “Paris.” If the prompt asks for an image of Paris in a particular artistic style, the model attempts to produce that. This ability to generate new content is what defines generative AI.
+
+A large language model (LLM) is a deep learning model designed specifically to understand and generate human language. Although the terms “LLM” and “generative AI” are often used interchangeably, they are not exactly the same. Some AI systems can generate images or videos without being language models, and some language models are designed for tasks other than generation. However, in most everyday discussions, the two terms are treated as referring to the same broad category of modern AI.
+
+Transformers are a major breakthrough in AI architecture, introduced by Google in 2017. They provide an efficient way to connect different parts of a neural network, making it easier for models to learn patterns in large amounts of data. While transformers may not be fundamentally required for AI progress, they significantly accelerated development. Without them, today’s models would likely be several years behind current capabilities.
+
+Large language models contain enormous numbers of internal settings known as parameters or weights. These can be thought of as sliders that control how the model responds to inputs. During training, these parameters are adjusted using massive datasets so that the model becomes increasingly accurate at predicting appropriate outputs. Two important phases of working with AI models are training and inference. Training involves learning from data and adjusting parameters, which can be extremely expensive and resource-intensive. Inference, by contrast, is simply running a trained model to produce outputs from new inputs—this is what happens every time ChatGPT is used.
+
+The term “pre-trained” refers to models that have already been trained on vast amounts of data and can be used immediately. GPT itself stands for Generative Pre-Trained Transformer. Building on this, the concept of agents refers to AI systems that have some autonomy in completing tasks. These systems can break complex goals into smaller steps and use language models to execute them, such as searching the web, interacting with tools, and completing workflows. Agentic AI is increasingly important in practical business applications.
+
+At a high level, the AI ecosystem can be viewed in layers. At the bottom are the frontier labs—organizations such as OpenAI, Anthropic, Google, Meta, Microsoft, Alibaba, and DeepSeek—that build foundational models. Above them are cloud providers like AWS, Azure, and Google Cloud, which offer access to these models through scalable infrastructure. Surrounding this are frameworks, tools, and platforms such as Hugging Face, LangChain, vector databases, and deployment platforms that help businesses customize and operationalize AI.
+
+At the top of this ecosystem are commercial products that apply AI to real-world tasks. These include developer tools like GitHub Copilot, business productivity tools like Microsoft Copilot, creative platforms such as Adobe Firefly, coding tools like Cursor, and industry-specific systems like Harvey for legal work or Salesforce Einstein for CRM and analytics. Some tools are general-purpose, while others are highly specialized for particular industries.
+
+This overview provides a 10,000-foot view of the AI landscape. In the next session, the focus will move deeper into large language models themselves—comparing different models, understanding their strengths, and learning how to choose the right one for specific business needs.
 
